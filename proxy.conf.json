@@ -1,0 +1,6 @@
+{
+  "/": {
+    "target": "https://dev-socketio.paydia.co.id",
+    "secure": false
+  }
+}
